@@ -2,8 +2,29 @@
 {
     internal class Program
     {
+        static void Main()
+        {
+            //TPL_ParallelExamples
+
+            int[] arr = new int[10];
+            //for(int i=0; i<arr.Length; i++)
+            //{
+            //    arr[i] = i*10;
+            //}
+
+            Parallel.For(0,10,new Action<int>(i => arr[i]=i*10));
+
+            //foreach(var  i in arr)
+            //{
+            //    Console.WriteLine(i);
+            //}
+            Parallel.ForEach<int>(arr, new Action<int>(item => { Console.WriteLine(item); }));
+
+            Parallel.Invoke(Func1,Func2);
+
+        }
       
-        static async Task Main()
+        static async Task Main1()
         {
             ////Task t1 = new Task(Func1);    //ok
             ////Task t2 = new Task(Func2);    //ok
