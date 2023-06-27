@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\bin\Debug\net7.0\InterFaceDemo.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\bin\Debug\net7.0\InterFaceDemo.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\bin\Debug\net7.0\InterFaceDemo.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\bin\Debug\net7.0\InterFaceDemo.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\bin\Debug\net7.0\InterFaceDemo.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\obj\Debug\net7.0\InterFaceDemo.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\obj\Debug\net7.0\InterFaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\obj\Debug\net7.0\InterFaceDemo.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\obj\Debug\net7.0\InterFaceDemo.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\obj\Debug\net7.0\InterFaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\obj\Debug\net7.0\InterFaceDemo.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\obj\Debug\net7.0\refint\InterFaceDemo.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\obj\Debug\net7.0\InterFaceDemo.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\obj\Debug\net7.0\InterFaceDemo.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\InterFaceDemo\InterFaceDemo\obj\Debug\net7.0\ref\InterFaceDemo.dll

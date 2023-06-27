@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\bin\Debug\net7.0\Assignment_Inheritence.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\bin\Debug\net7.0\Assignment_Inheritence.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\bin\Debug\net7.0\Assignment_Inheritence.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\bin\Debug\net7.0\Assignment_Inheritence.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\bin\Debug\net7.0\Assignment_Inheritence.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\obj\Debug\net7.0\Assignment_Inheritence.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\obj\Debug\net7.0\Assignment_Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\obj\Debug\net7.0\Assignment_Inheritence.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\obj\Debug\net7.0\Assignment_Inheritence.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\obj\Debug\net7.0\Assignment_Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\obj\Debug\net7.0\Assignment_Inheritence.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\obj\Debug\net7.0\refint\Assignment_Inheritence.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\obj\Debug\net7.0\Assignment_Inheritence.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\obj\Debug\net7.0\Assignment_Inheritence.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3Assgnt\Assignment_Inheritence\obj\Debug\net7.0\ref\Assignment_Inheritence.dll

@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\bin\Debug\net7.0\InheritenceDemo.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\bin\Debug\net7.0\InheritenceDemo.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\bin\Debug\net7.0\InheritenceDemo.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\bin\Debug\net7.0\InheritenceDemo.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\bin\Debug\net7.0\InheritenceDemo.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\obj\Debug\net7.0\InheritenceDemo.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\obj\Debug\net7.0\InheritenceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\obj\Debug\net7.0\InheritenceDemo.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\obj\Debug\net7.0\InheritenceDemo.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\obj\Debug\net7.0\InheritenceDemo.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\obj\Debug\net7.0\InheritenceDemo.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\obj\Debug\net7.0\refint\InheritenceDemo.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\obj\Debug\net7.0\InheritenceDemo.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\obj\Debug\net7.0\InheritenceDemo.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day3\InheritenceDemo\obj\Debug\net7.0\ref\InheritenceDemo.dll

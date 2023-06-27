@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\bin\Debug\net7.0\AssignmentNo5.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\bin\Debug\net7.0\AssignmentNo5.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\bin\Debug\net7.0\AssignmentNo5.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\bin\Debug\net7.0\AssignmentNo5.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\bin\Debug\net7.0\AssignmentNo5.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\obj\Debug\net7.0\AssignmentNo5.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\obj\Debug\net7.0\AssignmentNo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\obj\Debug\net7.0\AssignmentNo5.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\obj\Debug\net7.0\AssignmentNo5.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\obj\Debug\net7.0\AssignmentNo5.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\obj\Debug\net7.0\AssignmentNo5.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\obj\Debug\net7.0\refint\AssignmentNo5.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\obj\Debug\net7.0\AssignmentNo5.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\obj\Debug\net7.0\AssignmentNo5.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AssignmentNo5\AssignmentNo5\obj\Debug\net7.0\ref\AssignmentNo5.dll

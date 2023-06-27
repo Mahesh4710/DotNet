@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\obj\Debug\net7.0\LINQ_Eg.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\obj\Debug\net7.0\LINQ_Eg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\obj\Debug\net7.0\LINQ_Eg.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\obj\Debug\net7.0\LINQ_Eg.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\obj\Debug\net7.0\LINQ_Eg.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\bin\Debug\net7.0\LINQ_Eg.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\bin\Debug\net7.0\LINQ_Eg.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\bin\Debug\net7.0\LINQ_Eg.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\bin\Debug\net7.0\LINQ_Eg.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\bin\Debug\net7.0\LINQ_Eg.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\obj\Debug\net7.0\LINQ_Eg.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\obj\Debug\net7.0\refint\LINQ_Eg.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\obj\Debug\net7.0\LINQ_Eg.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\obj\Debug\net7.0\LINQ_Eg.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\LINQ_Eg\LINQ_Eg\obj\Debug\net7.0\ref\LINQ_Eg.dll

@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\bin\Debug\net7.0\AnonomousMethodLambda.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\bin\Debug\net7.0\AnonomousMethodLambda.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\bin\Debug\net7.0\AnonomousMethodLambda.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\bin\Debug\net7.0\AnonomousMethodLambda.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\bin\Debug\net7.0\AnonomousMethodLambda.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\obj\Debug\net7.0\AnonomousMethodLambda.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\obj\Debug\net7.0\AnonomousMethodLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\obj\Debug\net7.0\AnonomousMethodLambda.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\obj\Debug\net7.0\AnonomousMethodLambda.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\obj\Debug\net7.0\AnonomousMethodLambda.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\obj\Debug\net7.0\AnonomousMethodLambda.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\obj\Debug\net7.0\refint\AnonomousMethodLambda.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\obj\Debug\net7.0\AnonomousMethodLambda.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\obj\Debug\net7.0\AnonomousMethodLambda.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\AnonomousMethodLambda\AnonomousMethodLambda\obj\Debug\net7.0\ref\AnonomousMethodLambda.dll

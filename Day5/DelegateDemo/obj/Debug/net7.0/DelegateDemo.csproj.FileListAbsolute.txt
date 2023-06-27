@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\bin\Debug\net7.0\DelegateDemo.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\bin\Debug\net7.0\DelegateDemo.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\bin\Debug\net7.0\DelegateDemo.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\bin\Debug\net7.0\DelegateDemo.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\bin\Debug\net7.0\DelegateDemo.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\obj\Debug\net7.0\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\obj\Debug\net7.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\obj\Debug\net7.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\obj\Debug\net7.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\obj\Debug\net7.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\obj\Debug\net7.0\DelegateDemo.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\obj\Debug\net7.0\refint\DelegateDemo.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\obj\Debug\net7.0\DelegateDemo.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\obj\Debug\net7.0\DelegateDemo.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day5\DelegateDemo\obj\Debug\net7.0\ref\DelegateDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\bin\Debug\net7.0\Assignment1_Poperties.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\bin\Debug\net7.0\Assignment1_Poperties.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\bin\Debug\net7.0\Assignment1_Poperties.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\bin\Debug\net7.0\Assignment1_Poperties.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\bin\Debug\net7.0\Assignment1_Poperties.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\obj\Debug\net7.0\Assignment1_Poperties.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\obj\Debug\net7.0\Assignment1_Poperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\obj\Debug\net7.0\Assignment1_Poperties.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\obj\Debug\net7.0\Assignment1_Poperties.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\obj\Debug\net7.0\Assignment1_Poperties.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\obj\Debug\net7.0\Assignment1_Poperties.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\obj\Debug\net7.0\refint\Assignment1_Poperties.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\obj\Debug\net7.0\Assignment1_Poperties.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\obj\Debug\net7.0\Assignment1_Poperties.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Assignment1_Poperties\Assignment1_Poperties\obj\Debug\net7.0\ref\Assignment1_Poperties.dll

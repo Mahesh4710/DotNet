@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\bin\Debug\net7.0\WorkingWithTask.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\bin\Debug\net7.0\WorkingWithTask.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\bin\Debug\net7.0\WorkingWithTask.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\bin\Debug\net7.0\WorkingWithTask.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\bin\Debug\net7.0\WorkingWithTask.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\obj\Debug\net7.0\WorkingWithTask.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\obj\Debug\net7.0\WorkingWithTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\obj\Debug\net7.0\WorkingWithTask.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\obj\Debug\net7.0\WorkingWithTask.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\obj\Debug\net7.0\WorkingWithTask.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\obj\Debug\net7.0\WorkingWithTask.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\obj\Debug\net7.0\refint\WorkingWithTask.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\obj\Debug\net7.0\WorkingWithTask.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\obj\Debug\net7.0\WorkingWithTask.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\TaskInCore\WorkingWithTask\obj\Debug\net7.0\ref\WorkingWithTask.dll

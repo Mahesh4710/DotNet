@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\bin\Debug\net7.0\Lang_Intg_Query.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\bin\Debug\net7.0\Lang_Intg_Query.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\bin\Debug\net7.0\Lang_Intg_Query.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\bin\Debug\net7.0\Lang_Intg_Query.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\bin\Debug\net7.0\Lang_Intg_Query.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\obj\Debug\net7.0\Lang_Intg_Query.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\obj\Debug\net7.0\Lang_Intg_Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\obj\Debug\net7.0\Lang_Intg_Query.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\obj\Debug\net7.0\Lang_Intg_Query.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\obj\Debug\net7.0\Lang_Intg_Query.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\obj\Debug\net7.0\Lang_Intg_Query.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\obj\Debug\net7.0\refint\Lang_Intg_Query.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\obj\Debug\net7.0\Lang_Intg_Query.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\obj\Debug\net7.0\Lang_Intg_Query.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\Day6\Lang_Intg_Query\obj\Debug\net7.0\ref\Lang_Intg_Query.dll
