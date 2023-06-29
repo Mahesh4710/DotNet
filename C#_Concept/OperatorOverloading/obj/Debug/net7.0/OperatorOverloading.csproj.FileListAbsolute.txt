@@ -1,0 +1,15 @@
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.exe
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.deps.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.runtimeconfig.json
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfo.cs
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\obj\Debug\net7.0\refint\OperatorOverloading.dll
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.pdb
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.genruntimeconfig.cache
+C:\Users\mahip\OneDrive\Desktop\AspwithSukhalesir\C#_Concept\OperatorOverloading\obj\Debug\net7.0\ref\OperatorOverloading.dll

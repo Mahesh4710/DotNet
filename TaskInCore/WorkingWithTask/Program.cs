@@ -1,8 +1,10 @@
 ﻿namespace WorkingWithTask
 {
     internal class Program
+
     {
-        static void Main()
+
+        static void Main2()
         {
             //TPL_ParallelExamples
 
