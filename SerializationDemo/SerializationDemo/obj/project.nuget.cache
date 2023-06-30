@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UdEpWvlgSYI4XIbhVhNYR5/j/PahKFqonOArgjYkwCmXk7LDq5qKabZRLsaVQTExju7I/N9LKIyKx1Q2wb5ycw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahip\\OneDrive\\Desktop\\AspwithSukhalesir\\SerializationDemo\\SerializationDemo\\SerializationDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahip\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

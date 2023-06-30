@@ -12,7 +12,7 @@ namespace FileHandlingDemo
 
             //byte[] arr = Encoding.Default.GetBytes(s);
 
-            ////DriveInfo drive = new DriveInfo("C");
+            ////DriveInfo drive = new DriveInfo("C");   
 
             //FileStream stream = File.Open("C:\\aaaa\\a.txt", FileMode.OpenOrCreate);
 
